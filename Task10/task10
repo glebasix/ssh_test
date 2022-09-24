@@ -1,0 +1,6 @@
+Given a word, write a function that moves first character to the end of the word and last character to the beginning
+of the word. Use preg_replace() function and reqular expressions to implement this function.
+preg_replace() should accept strings only.
+
+Your solution:
+should contain PHP function with solution. Use type hinting and return type declaration with strict mode enabled.
